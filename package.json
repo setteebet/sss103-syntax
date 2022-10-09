@@ -1,18 +1,18 @@
 {
   "name": "sss103-syntax",
   "theme": "syntax",
-  "version": "0.1.1",
-"description": "หวยลด✔️ ❤️ ♕ เว็บหวยออนไลน์ มีหวยให้เล่นครบทุกชนิด ตลอด 24 ชั่วโมง",
-"keywords": [
-"หวยลด",
-"ดูหวยออนไลน์",
-"lottovip349",
-"แนวทาง ยี่กี เว็บ 24",
-"สมัคร lottovip"
-],
+  "version": "0.2.0",
+  "description": "หวยลด✔️ ❤️ ♕ เว็บหวยออนไลน์ มีหวยให้เล่นครบทุกชนิด ตลอด 24 ชั่วโมง",
+  "keywords": [
+    "หวยลด",
+    "ดูหวยออนไลน์",
+    "lottovip349",
+    "แนวทาง ยี่กี เว็บ 24",
+    "สมัคร lottovip"
+  ],
   "repository": "https://github.com/setteebet/sss103-syntax.git",
   "license": "MIT",
   "engines": {
-"atom": ">=1.0.0 <2.0.0"
-}
+    "atom": ">=1.0.0 <2.0.0"
+  }
 }
